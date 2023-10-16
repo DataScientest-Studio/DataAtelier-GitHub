@@ -2,6 +2,7 @@
 
 Ce repo est constitué :
 > d'un fichier de code streamlit_immobilier.py utilisé pour la création de l'application web Streamlit
+> 
 > des slides présentées pendant la présentation
 
 Le DataAtelier est disponible sur Youtube en replay au lien suivant : https://www.youtube.com/live/REQzcp0q1FU?feature=shared
