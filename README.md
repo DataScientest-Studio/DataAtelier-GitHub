@@ -1,7 +1,7 @@
 # DataAtelier-GitHub
 
 Ce repo est constitué :
-> d'un fichier de code streamlit_immobilier.py utilisé pour la création de l'application web Streamlit
+> d'un fichier de code `streamlit_immobilier.py` utilisé pour la création de l'application web Streamlit
 > 
 > des slides `Data Atelier Streamlit.pptx` présentées pendant la présentation
 
