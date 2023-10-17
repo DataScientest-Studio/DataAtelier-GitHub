@@ -2,7 +2,7 @@
 
 Ce repo est constitué :
 >
-> des donnes `Housing.csv`
+> des données `Housing.csv`
 >
 > d'un fichier de code `streamlit_immobilier.py` utilisé pour la création de l'application web Streamlit
 > 
