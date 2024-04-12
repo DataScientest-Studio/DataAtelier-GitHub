@@ -1,11 +1,9 @@
 # DataAtelier-GitHub
 
-Ce repo est constitué :
+In this repository :
 >
-> des données `Housing.csv`
+> data `Housing.csv`
 >
-> d'un fichier de code `streamlit_immobilier.py` utilisé pour la création de l'application web Streamlit
+> Python code to create the Streamlit web application `streamlit_immobilier.py` 
 > 
-> des slides `Data Atelier Streamlit.pptx` présentées pendant la présentation
-
-Le DataAtelier est disponible sur Youtube en replay au lien suivant : https://www.youtube.com/live/REQzcp0q1FU?feature=shared
+> slides `Data Atelier Streamlit.pptx` and `Data Atelier Streamlit EN.pptx`
